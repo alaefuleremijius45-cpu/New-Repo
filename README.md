@@ -1,2 +1,2 @@
 # New-Repo
-Just a new repo
+updated description
