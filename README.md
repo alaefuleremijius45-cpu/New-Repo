@@ -1,2 +1,2 @@
 # New-Repo
-updated description
+Edited readme
